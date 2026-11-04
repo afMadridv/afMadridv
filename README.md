@@ -10,8 +10,7 @@
 
 <img src="assets/trayectoria.svg" width="100%" alt="Experiencia: Desarrollador de Software en Fundación MASCaribe. Formación: Ingeniería de Sistemas (en curso, desde 2025); Técnico en Desarrollo de Software y Aplicaciones Móviles (2024)">
 
-<img src="assets/estadisticas.svg" width="100%" alt="Estadísticas">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=afMadridv&show_icons=true&hide_border=true&border_radius=0&bg_color=000000&title_color=fa4040&text_color=c6c6c6&icon_color=fa4040&locale=es" alt="Estadísticas de GitHub"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afMadridv&layout=compact&hide_border=true&border_radius=0&bg_color=000000&title_color=fa4040&text_color=c6c6c6&locale=es" alt="Lenguajes más usados">
+<img src="assets/estadisticas.svg" width="100%" alt="Estadísticas de GitHub: actividad pública y lenguajes más usados">
 
 <img src="assets/taskbar.svg" width="100%" alt="">
 
